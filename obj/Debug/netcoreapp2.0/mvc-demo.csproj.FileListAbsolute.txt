@@ -1,0 +1,10 @@
+/Users/cmt/dotnet/codefromteachings/mvc-demo/bin/Debug/netcoreapp2.0/mvc-demo.deps.json
+/Users/cmt/dotnet/codefromteachings/mvc-demo/bin/Debug/netcoreapp2.0/mvc-demo.runtimeconfig.json
+/Users/cmt/dotnet/codefromteachings/mvc-demo/bin/Debug/netcoreapp2.0/mvc-demo.runtimeconfig.dev.json
+/Users/cmt/dotnet/codefromteachings/mvc-demo/bin/Debug/netcoreapp2.0/mvc-demo.dll
+/Users/cmt/dotnet/codefromteachings/mvc-demo/bin/Debug/netcoreapp2.0/mvc-demo.pdb
+/Users/cmt/dotnet/codefromteachings/mvc-demo/obj/Debug/netcoreapp2.0/mvc-demo.csproj.CoreCompileInputs.cache
+/Users/cmt/dotnet/codefromteachings/mvc-demo/obj/Debug/netcoreapp2.0/mvc-demo.AssemblyInfoInputs.cache
+/Users/cmt/dotnet/codefromteachings/mvc-demo/obj/Debug/netcoreapp2.0/mvc-demo.AssemblyInfo.cs
+/Users/cmt/dotnet/codefromteachings/mvc-demo/obj/Debug/netcoreapp2.0/mvc-demo.dll
+/Users/cmt/dotnet/codefromteachings/mvc-demo/obj/Debug/netcoreapp2.0/mvc-demo.pdb
