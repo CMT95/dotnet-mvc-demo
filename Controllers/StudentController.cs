@@ -12,8 +12,9 @@ namespace mvc_demo.Controllers
         {
             return View();
         }
-        public IActionResult mvc()
+        public IActionResult mvc(int id = 1000)
         {
+            ViewBag.number = id;
             return View();
         }
     }
