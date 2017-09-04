@@ -8,9 +8,9 @@ namespace test.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public string Index()
         {
-            return View();
+            return "Hello World!";
         }
     }
 }
