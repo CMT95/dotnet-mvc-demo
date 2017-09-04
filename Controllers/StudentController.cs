@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-namespace test.Controllers
+namespace mvc_demo.Controllers
 {
     public class StudentController : Controller
     {
@@ -12,9 +12,9 @@ namespace test.Controllers
         {
             return View();
         }
-        public string day2()
+        public IActionResult mvc()
         {
-            return "Hello from day2";
+            return View();
         }
     }
 }
