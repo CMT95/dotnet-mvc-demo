@@ -1,0 +1,25 @@
+@model mvc_demo.Models.Entities.Student
+
+@{
+    ViewBag.Title = "Create Student";
+}
+
+
+    <h1>@ViewBag.Title</h1>
+    
+    <form method="post" action="/student/create">
+        <label >First Name</label>
+        <input asp-for="FirstName" type="text"/>
+        <br>
+        <label>Last Name</label>
+        <input asp-for="LastName" type="text"/>
+        <br>
+        <label>Age</label>
+        <input asp-for="Age" type="text"/>
+        <br>
+        <input type="submit"/>
+
+
+    </div>
+    </form>
+

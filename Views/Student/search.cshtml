@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Student</title>
+</head>
+<body>
+    <h1>Search Students</h1>
+
+    <form action="/student/search" method="get">
+        <label>Student Name</label>
+        <input type="text"/>
+        <input type="submit"/>
+        @foreach(var stud in @ViewBag.stud)
+        {
+        <p>Student info: @ViewBag.stud</p>
+        }
+    </form>
+    
+</body>
+</html>
